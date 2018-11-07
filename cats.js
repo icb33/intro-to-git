@@ -1,3 +1,1 @@
-console.log("MEOW!");
-
-console.log("prrr!")
+console.log("MEOW!")
